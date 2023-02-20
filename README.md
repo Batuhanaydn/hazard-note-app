@@ -1,5 +1,3 @@
-# Hazard Note App
-
 # Description of the Project
 This is a Flask app that allows users to register, login, and create notes.
 
